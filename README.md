@@ -4,13 +4,13 @@
 1. Clone the repository:
 
 ```bash
-  git clone https://github.com/theritalin/EngramSpam.git
+  git clone https://github.com/theritalin/EngramBot
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-  cd EngramSpam
+  cd EngramBot
 ```
 
 3. Install required npm packages:
